@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there, I'm hupf3👋
+
+Hi, I'm Pengfei Hu, a student in Sun Yat-sen University from China.
+
+- 🔭 I’m currently working on school work
+- 🌱 I’m currently learning Vue.js
+- 💬 Ask me about anything here
 
 [solarized-light_repo]: https://github-readme-stats.vercel.app/api/pin/?username=hupf&repo=github-readme-stats&cache_seconds=86400&theme=solarized-light
 
