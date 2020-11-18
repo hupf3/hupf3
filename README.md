@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-[solarized-light_repo]: https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=solarized-light
+[solarized-light_repo]: https://github-readme-stats.vercel.app/api/pin/?username=hupf&repo=github-readme-stats&cache_seconds=86400&theme=solarized-light
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hupf&layout=compact)](https://github.com/hupf/github-readme-stats)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=solarized-light&show_icons=true)
+![hupf's github stats](https://github-readme-stats.vercel.app/api?username=hupf&theme=solarized-light&show_icons=true)
 
 Here are some ideas to get you started:
 
